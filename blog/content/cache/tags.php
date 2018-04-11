@@ -1,0 +1,1 @@
+<?php exit;//a:2:{i:0;a:4:{s:6:"tagurl";s:18:"%E5%BF%83%E5%BE%97";s:7:"tagname";s:6:"心得";s:8:"fontsize";d:10;s:6:"usenum";i:1;}i:1;a:4:{s:6:"tagurl";s:45:"%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F";s:7:"tagname";s:15:"正则表达式";s:8:"fontsize";d:10;s:6:"usenum";i:1;}}
